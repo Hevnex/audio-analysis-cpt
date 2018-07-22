@@ -1,4 +1,4 @@
-#!/usr/local/bin/python2
+#!python2
 from sys import argv
 import numpy as np
 from pyAudioAnalysis import audioTrainTest as aT
