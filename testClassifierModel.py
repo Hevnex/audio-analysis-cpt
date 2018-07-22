@@ -9,7 +9,6 @@ isSignificant = 0.6 #try different values.
 Result, P, classNames = aT.fileClassification(filename, "svmModel", "svm")
 winner = np.argmax(P) #pick the result with the highest probability value.
 
-# is the highest value found above the isSignificant threshhold? 
 if P[winner] > isSignificant :
   print("File: " +filename + " is in category: " + classNames[winner] + ", with probability: " + str(P[winner]))
 else :
