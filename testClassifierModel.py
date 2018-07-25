@@ -1,15 +1,24 @@
 #!python2
 from sys import argv
 import numpy as np
+import os
 from pyAudioAnalysis import audioTrainTest as aT
-script, filename = argv
-isSignificant = 0.6 #try different values.
+script, filedir = argv
+isSignificant = 0.3 #try different values.
 
-# P: list of probabilities
-Result, P, classNames = aT.fileClassification(filename, "svmModel", "svm")
-winner = np.argmax(P) #pick the result with the highest probability value.
+filename = os.listdir(filedir)
+for i in filename:
+  # P: list of probabilities
+  Result, P, classNames = aT.fileClassification(filedir + "/" + i, "svmModel", "svm")
+  print(i)
+  winner = np.argmax(P) #pick the result with the highest probability value.
 
-if P[winner] > isSignificant :
-  print("File: " +filename + " is in category: " + classNames[winner] + ", with probability: " + str(P[winner]))
-else :
-  print("Can't classify sound: " + str(P))
+# is the highest value found above the isSignificant threshhold? 
+  if P[winner] > isSignificant :
+    win = i + "	" + str(P[winner])[:5] + "	" + classNames[winner]
+  else :
+    win = i + "	" + "-"
+
+  f = open("resultt.txt", "a")
+  f.write("\n" + win)
+  f.close()
