@@ -19,6 +19,6 @@ for i in filename:
   else :
     win = i + "	" + "-"
 
-  f = open("resultt.txt", "a")
+  f = open("result.txt", "a")
   f.write("\n" + win)
   f.close()
