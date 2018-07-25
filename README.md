@@ -10,5 +10,5 @@
 Для запуска теста требуется:
 1) git clone https://github.com/Hevnex/audio-analysis-cpt.git
 2) Создать папку sampleData с тестовыми файлами.
-3) python2 testClassifierModel.py sampleData/speech_t_0040.wav
+3) python2 testClassifierModel.py sampleData
 
