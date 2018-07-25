@@ -1,0 +1,17 @@
+background_0028.wav    -
+background_t_0007.wav  -
+bags_0070.wav            0.932	  bags
+bags_t_0002.wav          0.887	  bags
+door_t_0016.wav          0.998	  door
+door_t_0013.wav          0.538	  door
+keyboard_t_0017.wav      0.998	  keyboard
+keyboard_0012.wav        0.999	  keyboard
+knocking_door_0081.wav   0.914	  knocking door
+knocking_door_t_0006.wav 0.999	  knocking door
+ring_0003.wav            0.458	  ring
+ring_t_0011.wav          0.526	  ring
+speech_0024.wav          0.992	  speech
+speech_t_0040.wav        0.966 	  speech
+tool_0004.wav            0.978	  tool
+tool_0013.wav            0.990	  tool
+
