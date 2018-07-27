@@ -1,474 +1,610 @@
-
-background_0001.wav	0.594	tool
-background_0004.wav	0.932	tool
-background_0009.wav	0.613	tool
-background_0012.wav	0.867	tool
-background_0016.wav	-
-background_0018.wav	0.353	door
-background_0022.wav	0.968	tool
-background_0028.wav	0.988	tool
-background_0031.wav	0.789	background
-background_0036.wav	0.965	tool
-background_0039.wav	0.698	tool
-background_0043.wav	0.615	background
-background_0046.wav	0.577	tool
-background_0049.wav	0.769	tool
-background_0051.wav	0.497	tool
-background_0056.wav	-
-background_0060.wav	0.973	background
-background_0063.wav	0.996	background
-background_0068.wav	0.408	tool
-background_0070.wav	0.341	background
-background_0074.wav	-
-background_0077.wav	0.989	background
-background_0078.wav	0.960	background
-background_0080.wav	0.773	tool
-background_0085.wav	0.810	tool
-background_0089.wav	0.961	background
-background_0092.wav	0.683	tool
-background_t_0001.wav	0.331	tool
-background_t_0002.wav	-
-background_t_0003.wav	0.826	background
-background_t_0004.wav	0.579	tool
-background_t_0005.wav	0.989	background
-background_t_0006.wav	0.439	door
-background_t_0007.wav	0.356	background
-background_t_0008.wav	0.524	knocking door
-background_t_0009.wav	0.831	background
-background_t_0010.wav	0.891	background
-background_t_0011.wav	0.355	knocking door
-background_t_0012.wav	0.383	knocking door
-background_t_0013.wav	0.442	speech
-background_t_0014.wav	-
-bags_0001.wav	0.931	bags
-bags_0003.wav	0.953	bags
-bags_0007.wav	0.973	bags
-bags_0009.wav	0.990	bags
-bags_0013.wav	0.737	bags
-bags_0017.wav	0.996	bags
-bags_0022.wav	0.992	bags
-bags_0031.wav	0.925	bags
-bags_0032.wav	0.657	bags
-bags_0034.wav	0.975	bags
-bags_0038.wav	0.997	bags
-bags_0039.wav	0.986	bags
-bags_0042.wav	0.970	bags
-bags_0044.wav	0.975	bags
-bags_0047.wav	0.895	bags
-bags_0051.wav	0.972	bags
-bags_0054.wav	0.964	bags
-bags_0058.wav	0.902	bags
-bags_0060.wav	0.968	bags
-bags_0063.wav	0.957	bags
-bags_0066.wav	0.779	bags
-bags_0070.wav	0.932	bags
-bags_0074.wav	0.903	bags
-bags_0079.wav	0.752	bags
-bags_0082.wav	0.948	bags
-bags_0084.wav	0.744	bags
-bags_0086.wav	0.786	bags
-bags_t_0001.wav	0.997	keyboard
-bags_t_0002.wav	0.888	bags
-bags_t_0003.wav	0.674	door
-bags_t_0004.wav	0.420	keyboard
-bags_t_0005.wav	0.446	door
-bags_t_0006.wav	0.989	door
-bags_t_0007.wav	0.532	door
-bags_t_0008.wav	0.451	bags
-bags_t_0009.wav	0.630	tool
-bags_t_0010.wav	0.839	bags
-bags_t_0011.wav	0.519	tool
-bags_t_0012.wav	0.802	bags
-bags_t_0013.wav	0.999	bags
-bags_t_0014.wav	0.992	bags
-bags_t_0015.wav	0.913	bags
-bags_t_0016.wav	0.970	bags
-bags_t_0017.wav	0.974	bags
-bags_t_0018.wav	0.924	bags
-bags_t_0019.wav	0.983	bags
-bags_t_0020.wav	0.980	bags
-bags_t_0021.wav	0.981	bags
-bags_t_0022.wav	0.853	bags
-bags_t_0023.wav	0.981	bags
-door_0002.wav	0.983	door
-door_0005.wav	0.999	door
-door_0008.wav	0.949	door
-door_0014.wav	0.988	door
-door_0019.wav	0.874	door
-door_0023.wav	0.994	door
-door_0026.wav	0.786	door
-door_0032.wav	0.585	keyboard
-door_0034.wav	0.971	door
-door_0037.wav	0.987	door
-door_0039.wav	0.997	door
-door_0041.wav	0.997	door
-door_0044.wav	0.734	door
-door_0047.wav	0.969	door
-door_0050.wav	0.571	door
-door_0054.wav	0.856	door
-door_0057.wav	0.896	door
-door_0061.wav	0.991	background
-door_0064.wav	0.414	door
-door_0067.wav	0.556	knocking door
-door_0071.wav	0.947	door
-door_0073.wav	0.786	door
-door_0075.wav	0.645	door
-door_0079.wav	0.967	door
-door_0081.wav	0.961	door
-door_0085.wav	0.979	door
-door_0087.wav	0.989	door
-door_t_0001.wav	0.851	door
-door_t_0002.wav	0.796	door
-door_t_0003.wav	0.752	speech
-door_t_0004.wav	0.991	door
-door_t_0005.wav	0.969	door
-door_t_0006.wav	0.937	door
-door_t_0007.wav	0.913	door
-door_t_0008.wav	0.989	door
-door_t_0009.wav	0.950	door
-door_t_0010.wav	0.880	door
-door_t_0011.wav	0.786	door
-door_t_0012.wav	0.376	background
-door_t_0013.wav	0.538	door
-door_t_0014.wav	0.612	door
-door_t_0015.wav	0.941	door
-door_t_0016.wav	0.998	door
-door_t_0017.wav	0.922	door
-door_t_0018.wav	0.934	door
-door_t_0019.wav	0.539	knocking door
-door_t_0020.wav	0.747	door
-door_t_0021.wav	0.569	knocking door
-door_t_0022.wav	0.936	door
-keyboard_0002.wav	0.992	keyboard
-keyboard_0005.wav	0.999	keyboard
-keyboard_0008.wav	0.999	keyboard
-keyboard_0012.wav	0.999	keyboard
-keyboard_0017.wav	0.998	keyboard
-keyboard_0021.wav	0.997	keyboard
-keyboard_0026.wav	0.982	keyboard
-keyboard_0030.wav	0.995	keyboard
-keyboard_0032.wav	0.993	keyboard
-keyboard_0035.wav	0.997	keyboard
-keyboard_0039.wav	0.981	keyboard
-keyboard_0042.wav	0.984	keyboard
-keyboard_0044.wav	0.931	keyboard
-keyboard_0046.wav	0.997	keyboard
-keyboard_0049.wav	0.846	keyboard
-keyboard_0052.wav	0.987	keyboard
-keyboard_0055.wav	0.994	keyboard
-keyboard_0058.wav	0.998	keyboard
-keyboard_0061.wav	0.994	keyboard
-keyboard_0063.wav	0.640	keyboard
-keyboard_0068.wav	0.980	keyboard
-keyboard_0071.wav	0.999	keyboard
-keyboard_0077.wav	0.993	keyboard
-keyboard_0079.wav	0.973	keyboard
-keyboard_0083.wav	0.998	keyboard
-keyboard_t_0001.wav	0.999	keyboard
-keyboard_t_0002.wav	0.999	keyboard
-keyboard_t_0003.wav	0.977	keyboard
-keyboard_t_0004.wav	0.681	knocking door
-keyboard_t_0005.wav	0.995	keyboard
-keyboard_t_0006.wav	0.998	keyboard
-keyboard_t_0007.wav	0.867	keyboard
-keyboard_t_0008.wav	0.999	keyboard
-keyboard_t_0009.wav	0.988	keyboard
-keyboard_t_0010.wav	0.981	keyboard
-keyboard_t_0011.wav	0.367	keyboard
-keyboard_t_0012.wav	0.997	keyboard
-keyboard_t_0013.wav	0.991	keyboard
-keyboard_t_0014.wav	0.992	keyboard
-keyboard_t_0015.wav	0.999	keyboard
-keyboard_t_0016.wav	0.988	keyboard
-keyboard_t_0017.wav	0.997	keyboard
-keyboard_t_0018.wav	0.995	keyboard
-keyboard_t_0019.wav	0.989	keyboard
-keyboard_t_0020.wav	0.958	keyboard
-keyboard_t_0021.wav	0.994	keyboard
-keyboard_t_0022.wav	0.996	keyboard
-knocking_door_0001.wav	0.999	knocking door
-knocking_door_0006.wav	0.999	knocking door
-knocking_door_0011.wav	0.999	knocking door
-knocking_door_0014.wav	0.999	knocking door
-knocking_door_0018.wav	0.647	knocking door
-knocking_door_0022.wav	0.999	knocking door
-knocking_door_0026.wav	0.914	knocking door
-knocking_door_0029.wav	0.988	door
-knocking_door_0031.wav	0.997	knocking door
-knocking_door_0035.wav	0.999	knocking door
-knocking_door_0036.wav	0.843	knocking door
-knocking_door_0040.wav	0.519	knocking door
-knocking_door_0043.wav	0.499	door
-knocking_door_0045.wav	0.882	door
-knocking_door_0050.wav	0.978	knocking door
-knocking_door_0054.wav	0.999	knocking door
-knocking_door_0057.wav	0.995	knocking door
-knocking_door_0060.wav	0.998	knocking door
-knocking_door_0066.wav	0.999	knocking door
-knocking_door_0068.wav	0.999	knocking door
-knocking_door_0072.wav	0.999	knocking door
-knocking_door_0077.wav	0.999	knocking door
-knocking_door_0081.wav	0.914	knocking door
-knocking_door_0085.wav	0.686	background
-knocking_door_0088.wav	0.670	door
-knocking_door_0090.wav	0.583	speech
-knocking_door_0091.wav	0.941	knocking door
-knocking_door_t_0001.wav	0.521	speech
-knocking_door_t_0002.wav	0.995	knocking door
-knocking_door_t_0003.wav	0.998	knocking door
-knocking_door_t_0004.wav	0.999	knocking door
-knocking_door_t_0005.wav	0.875	knocking door
-knocking_door_t_0006.wav	0.999	knocking door
-knocking_door_t_0007.wav	0.552	knocking door
-knocking_door_t_0008.wav	0.998	knocking door
-knocking_door_t_0009.wav	0.999	knocking door
-knocking_door_t_0010.wav	0.998	knocking door
-knocking_door_t_0011.wav	0.801	knocking door
-knocking_door_t_0012.wav	0.988	knocking door
-knocking_door_t_0013.wav	0.999	knocking door
-knocking_door_t_0014.wav	0.999	knocking door
-knocking_door_t_0015.wav	0.744	door
-knocking_door_t_0016.wav	0.747	door
-knocking_door_t_0017.wav	0.839	door
-knocking_door_t_0018.wav	0.990	knocking door
-knocking_door_t_0019.wav	0.999	knocking door
-knocking_door_t_0020.wav	0.998	knocking door
-knocking_door_t_0021.wav	0.788	knocking door
-knocking_door_t_0022.wav	0.967	knocking door
-knocking_door_t_0023.wav	0.999	knocking door
-knocking_door_t_0024.wav	0.796	knocking door
-knocking_door_t_0025.wav	0.354	knocking door
-knocking_door_t_0026.wav	0.995	knocking door
-knocking_door_t_0027.wav	0.997	knocking door
-knocking_door_t_0028.wav	0.956	knocking door
-knocking_door_t_0029.wav	0.999	knocking door
-knocking_door_t_0030.wav	0.992	knocking door
-knocking_door_t_0031.wav	0.977	knocking door
-knocking_door_t_0032.wav	0.999	knocking door
-ring_0001.wav	0.918	ring
-ring_0002.wav	0.867	ring
-ring_0003.wav	0.475	background
-ring_0004.wav	0.965	ring
-ring_0005.wav	0.824	ring
-ring_0006.wav	0.962	ring
-ring_0007.wav	0.844	ring
-ring_0008.wav	0.808	ring
-ring_0009.wav	0.981	ring
-ring_0010.wav	0.955	ring
-ring_0011.wav	0.820	ring
-ring_0012.wav	0.972	ring
-ring_0013.wav	0.861	ring
-ring_0014.wav	0.680	background
-ring_0015.wav	0.458	ring
-ring_0016.wav	0.967	ring
-ring_0017.wav	0.995	ring
-ring_0018.wav	0.970	ring
-ring_0019.wav	0.995	ring
-ring_0020.wav	0.997	ring
-ring_0021.wav	0.986	ring
-ring_0022.wav	0.934	ring
-ring_0023.wav	0.988	ring
-ring_0024.wav	0.995	ring
-ring_0025.wav	0.990	ring
-ring_0026.wav	0.927	ring
-ring_0027.wav	0.955	ring
-ring_0028.wav	0.981	ring
-ring_0029.wav	0.983	ring
-ring_0030.wav	0.897	ring
-ring_0031.wav	0.936	ring
-ring_0032.wav	0.887	ring
-ring_0033.wav	0.993	ring
-ring_0034.wav	0.997	ring
-ring_0035.wav	0.958	ring
-ring_0036.wav	0.996	ring
-ring_0037.wav	0.973	ring
-ring_0038.wav	0.945	ring
-ring_0039.wav	0.988	ring
-ring_0040.wav	0.947	ring
-ring_0041.wav	0.738	ring
-ring_0042.wav	0.440	door
-ring_0043.wav	0.420	speech
-ring_0044.wav	0.787	ring
-ring_0045.wav	0.844	ring
-ring_0046.wav	0.828	ring
-ring_0047.wav	0.955	ring
-ring_0048.wav	0.859	ring
-ring_0049.wav	0.581	ring
-ring_0050.wav	0.980	ring
-ring_0051.wav	0.937	ring
-ring_0052.wav	0.987	ring
-ring_0053.wav	0.923	ring
-ring_0054.wav	0.847	ring
-ring_0055.wav	0.976	ring
-ring_0056.wav	0.575	ring
-ring_0057.wav	0.913	ring
-ring_0058.wav	0.840	ring
-ring_t_0001.wav	0.333	keyboard
-ring_t_0002.wav	0.439	ring
-ring_t_0003.wav	0.966	ring
-ring_t_0004.wav	0.858	ring
-ring_t_0005.wav	0.996	ring
-ring_t_0006.wav	0.995	ring
-ring_t_0007.wav	0.926	ring
-ring_t_0008.wav	0.808	ring
-ring_t_0009.wav	0.995	ring
-ring_t_0010.wav	0.681	ring
-ring_t_0011.wav	0.525	ring
-ring_t_0012.wav	0.901	ring
-ring_t_0013.wav	0.973	ring
-ring_t_0014.wav	0.878	ring
-speech_0001.wav	0.419	speech
-speech_0002.wav	0.995	speech
-speech_0003.wav	0.993	speech
-speech_0004.wav	0.981	speech
-speech_0005.wav	0.995	speech
-speech_0006.wav	0.999	speech
-speech_0007.wav	0.995	speech
-speech_0008.wav	0.996	speech
-speech_0009.wav	0.995	speech
-speech_0010.wav	0.994	speech
-speech_0011.wav	0.978	speech
-speech_0012.wav	0.999	speech
-speech_0013.wav	0.974	speech
-speech_0014.wav	0.660	speech
-speech_0015.wav	0.987	speech
-speech_0016.wav	0.972	speech
-speech_0017.wav	0.997	speech
-speech_0018.wav	0.963	speech
-speech_0019.wav	0.988	speech
-speech_0020.wav	0.980	speech
-speech_0021.wav	0.950	speech
-speech_0022.wav	0.915	speech
-speech_0023.wav	0.617	speech
-speech_0024.wav	0.992	speech
-speech_0025.wav	0.989	speech
-speech_0026.wav	0.927	speech
-speech_0027.wav	0.537	speech
-speech_0028.wav	0.974	speech
-speech_0029.wav	0.997	speech
-speech_0030.wav	0.986	speech
-speech_0031.wav	0.995	speech
-speech_0032.wav	0.979	speech
-speech_0033.wav	0.560	door
-speech_0034.wav	0.995	speech
-speech_0035.wav	0.999	knocking door
-speech_0036.wav	0.937	speech
-speech_0037.wav	0.998	speech
-speech_0038.wav	0.973	speech
-speech_0039.wav	0.999	speech
-speech_0040.wav	0.996	speech
-speech_0041.wav	0.997	speech
-speech_0042.wav	0.999	speech
-speech_0043.wav	0.997	speech
-speech_0044.wav	0.998	speech
-speech_0045.wav	0.999	speech
-speech_0046.wav	0.999	speech
-speech_0047.wav	0.997	speech
-speech_0048.wav	0.995	speech
-speech_0049.wav	0.999	speech
-speech_0050.wav	0.999	speech
-speech_0051.wav	0.997	speech
-speech_0052.wav	0.996	speech
-speech_0053.wav	0.999	speech
-speech_0054.wav	0.996	speech
-speech_0055.wav	0.988	speech
-speech_0056.wav	0.998	speech
-speech_0057.wav	0.898	speech
-speech_0058.wav	0.994	speech
-speech_0059.wav	0.999	speech
-speech_0060.wav	0.998	speech
-speech_0061.wav	0.999	speech
-speech_0062.wav	0.999	speech
-speech_0063.wav	0.995	speech
-speech_0064.wav	0.999	speech
-speech_0065.wav	0.999	speech
-speech_0066.wav	0.999	speech
-speech_0067.wav	0.999	speech
-speech_0068.wav	0.998	speech
-speech_0069.wav	0.989	speech
-speech_0070.wav	0.995	speech
-speech_0071.wav	0.958	speech
-speech_0072.wav	0.974	speech
-speech_0073.wav	0.999	speech
-speech_0074.wav	0.996	speech
-speech_0075.wav	0.999	speech
-speech_0076.wav	0.977	speech
-speech_0077.wav	0.999	speech
-speech_0078.wav	0.999	speech
-speech_0079.wav	0.996	speech
-speech_0080.wav	0.974	speech
-speech_0081.wav	0.999	speech
-speech_0082.wav	0.999	speech
-speech_0083.wav	0.993	speech
-speech_0084.wav	0.987	speech
-speech_0085.wav	0.995	speech
-speech_0086.wav	0.811	speech
-speech_0087.wav	0.858	speech
-speech_0088.wav	0.999	speech
-speech_0089.wav	0.764	speech
-speech_0090.wav	0.989	speech
-speech_0091.wav	0.978	speech
-speech_0092.wav	0.997	speech
-speech_0093.wav	0.992	speech
-speech_0094.wav	0.990	speech
-speech_0095.wav	0.861	speech
-speech_0096.wav	0.988	speech
-speech_0097.wav	0.912	speech
-speech_0098.wav	0.914	speech
-speech_0099.wav	0.780	speech
-speech_0100.wav	0.686	speech
-speech_t_0001.wav	0.967	speech
-speech_t_0002.wav	0.964	speech
-speech_t_0003.wav	0.980	speech
-speech_t_0004.wav	0.997	speech
-speech_t_0005.wav	0.993	speech
-speech_t_0006.wav	0.999	speech
-speech_t_0007.wav	0.732	speech
-speech_t_0008.wav	0.996	speech
-speech_t_0009.wav	0.999	speech
-speech_t_0010.wav	0.998	speech
-speech_t_0011.wav	0.986	speech
-speech_t_0012.wav	0.999	speech
-speech_t_0013.wav	0.999	speech
-speech_t_0014.wav	0.994	speech
-speech_t_0015.wav	0.997	speech
-speech_t_0016.wav	0.998	speech
-speech_t_0017.wav	0.998	speech
-speech_t_0018.wav	0.387	ring
-speech_t_0019.wav	0.987	speech
-speech_t_0020.wav	0.980	speech
-speech_t_0021.wav	0.915	speech
-speech_t_0022.wav	0.507	door
-speech_t_0023.wav	0.999	speech
-speech_t_0024.wav	0.993	speech
-speech_t_0025.wav	0.980	speech
-speech_t_0026.wav	0.832	speech
-speech_t_0027.wav	0.993	speech
-speech_t_0028.wav	0.994	speech
-speech_t_0029.wav	0.999	speech
-speech_t_0030.wav	0.994	speech
-speech_t_0031.wav	0.995	speech
-speech_t_0032.wav	0.992	speech
-speech_t_0033.wav	0.941	speech
-speech_t_0034.wav	0.990	speech
-speech_t_0035.wav	0.996	speech
-speech_t_0036.wav	0.987	speech
-speech_t_0037.wav	0.834	speech
-speech_t_0038.wav	0.951	speech
-speech_t_0039.wav	0.988	speech
-speech_t_0040.wav	0.966	speech
-speech_t_0041.wav	0.918	speech
-tool_0001.wav	0.985	tool
-tool_0002.wav	0.997	tool
-tool_0003.wav	0.808	tool
-tool_0004.wav	0.978	tool
-tool_0005.wav	0.604	tool
-tool_0006.wav	0.984	tool
-tool_0007.wav	0.702	background
-tool_0008.wav	0.870	tool
-tool_0009.wav	0.996	tool
-tool_0010.wav	0.773	tool
-tool_0011.wav	0.999	tool
-tool_0012.wav	0.917	tool
-tool_0013.wav	0.990	tool
-tool_0014.wav	0.557	bags
+background_0001.wav	0.5940934525598297	tool
+background_0004.wav	0.9328794178591556	tool
+background_0009.wav	0.613222145462274	tool
+background_0012.wav	0.8675319206107511	tool
+background_0016.wav	0.2830391419191177	tool
+background_0018.wav	0.35326666873035234	door
+background_0022.wav	0.9688495218070503	tool
+background_0028.wav	0.9887306566702312	tool
+background_0031.wav	0.7892536165148912	background
+background_0036.wav	0.9655085699017274	tool
+background_0039.wav	0.6987385534375115	tool
+background_0043.wav	0.6155392776387629	background
+background_0046.wav	0.5770998989215542	tool
+background_0049.wav	0.7692011331619618	tool
+background_0051.wav	0.497260212778219	tool
+background_0056.wav	0.2597789789312498	speech
+background_0060.wav	0.9730752776043576	background
+background_0063.wav	0.9969624726957735	background
+background_0068.wav	0.40840761545026993	tool
+background_0070.wav	0.34191840045379024	background
+background_0074.wav	0.25878724468106074	background
+background_0077.wav	0.9896635544109698	background
+background_0078.wav	0.9603921746623169	background
+background_0080.wav	0.773365220686664	tool
+background_0085.wav	0.810751938386124	tool
+background_0089.wav	0.9619543958011378	background
+background_0092.wav	0.6836063326116792	tool
+background_t_0001.wav	0.33142977004128443	tool
+background_t_0002.wav	0.2736297706014873	door
+background_t_0003.wav	0.8267284940502071	background
+background_t_0004.wav	0.5799730104421055	tool
+background_t_0005.wav	0.989166607707908	background
+background_t_0006.wav	0.43927824936213383	door
+background_t_0007.wav	0.3564513833065347	background
+background_t_0008.wav	0.5246670312284551	knocking door
+background_t_0009.wav	0.8312833855355561	background
+background_t_0010.wav	0.8919725712269903	background
+background_t_0011.wav	0.3559276100806337	knocking door
+background_t_0012.wav	0.3838636328466649	knocking door
+background_t_0013.wav	0.4426486397556041	speech
+background_t_0014.wav	0.22528291345622925	knocking door
+bags_0001.wav	0.931061762838852	bags
+bags_0003.wav	0.9530819230189596	bags
+bags_0007.wav	0.9739719490959386	bags
+bags_0009.wav	0.9900435098020218	bags
+bags_0013.wav	0.737840064733151	bags
+bags_0017.wav	0.9967285271993606	bags
+bags_0022.wav	0.9926321612367839	bags
+bags_0031.wav	0.9254112712736621	bags
+bags_0032.wav	0.6573534907405312	bags
+bags_0034.wav	0.9752431923342721	bags
+bags_0038.wav	0.9979539157748937	bags
+bags_0039.wav	0.9860949221229248	bags
+bags_0042.wav	0.9702279616915104	bags
+bags_0044.wav	0.975468537734006	bags
+bags_0047.wav	0.8955258178915625	bags
+bags_0051.wav	0.9724068674130235	bags
+bags_0054.wav	0.9649516796805226	bags
+bags_0058.wav	0.9029169140627923	bags
+bags_0060.wav	0.9681131119821117	bags
+bags_0063.wav	0.9578248463223032	bags
+bags_0066.wav	0.7792922294064916	bags
+bags_0070.wav	0.9327985672448563	bags
+bags_0074.wav	0.903046308130339	bags
+bags_0079.wav	0.7527773645706476	bags
+bags_0082.wav	0.9488116792294291	bags
+bags_0084.wav	0.7447170396111464	bags
+bags_0086.wav	0.7866026560341739	bags
+bags_t_0001.wav	0.9979201422529691	keyboard
+bags_t_0002.wav	0.8886170112654783	bags
+bags_t_0003.wav	0.6746973975777869	door
+bags_t_0004.wav	0.4205286551899532	keyboard
+bags_t_0005.wav	0.4461561458160653	door
+bags_t_0006.wav	0.9899985392751762	door
+bags_t_0007.wav	0.5328016702114534	door
+bags_t_0008.wav	0.4513282540721244	bags
+bags_t_0009.wav	0.6300177121273206	tool
+bags_t_0010.wav	0.8399213695319732	bags
+bags_t_0011.wav	0.5198203521005598	tool
+bags_t_0012.wav	0.8021343267183251	bags
+bags_t_0013.wav	0.9996213324053859	bags
+bags_t_0014.wav	0.9928383225079941	bags
+bags_t_0015.wav	0.9135212897024642	bags
+bags_t_0016.wav	0.9706029262689176	bags
+bags_t_0017.wav	0.9744858837534365	bags
+bags_t_0018.wav	0.9242871994740618	bags
+bags_t_0019.wav	0.9839543586329099	bags
+bags_t_0020.wav	0.9809846994262559	bags
+bags_t_0021.wav	0.9814316851579108	bags
+bags_t_0022.wav	0.8538633516402716	bags
+bags_t_0023.wav	0.9815389443565324	bags
+door_0002.wav	0.9838883454257751	door
+door_0005.wav	0.9993866220715848	door
+door_0008.wav	0.9499578552810556	door
+door_0014.wav	0.988476058573693	door
+door_0019.wav	0.8745978236504136	door
+door_0023.wav	0.9949426930788547	door
+door_0026.wav	0.7869277014542692	door
+door_0032.wav	0.5857574523851257	keyboard
+door_0034.wav	0.9718227674159631	door
+door_0037.wav	0.9874163145802877	door
+door_0039.wav	0.9972328074285103	door
+door_0041.wav	0.9972082341009909	door
+door_0044.wav	0.7345935390201727	door
+door_0047.wav	0.9690339524150513	door
+door_0050.wav	0.571840906006103	door
+door_0054.wav	0.856930591603895	door
+door_0057.wav	0.8960701211653465	door
+door_0061.wav	0.9917177188059303	background
+door_0064.wav	0.41455414106187183	door
+door_0067.wav	0.5561903833931321	knocking door
+door_0071.wav	0.9470384607967653	door
+door_0073.wav	0.7863869052009519	door
+door_0075.wav	0.6455004514531812	door
+door_0079.wav	0.9672091212281321	door
+door_0081.wav	0.9610452280686959	door
+door_0085.wav	0.9799535790540701	door
+door_0087.wav	0.9893380528188647	door
+door_t_0001.wav	0.85173372500633	door
+door_t_0002.wav	0.7966633961813053	door
+door_t_0003.wav	0.7525756278939952	speech
+door_t_0004.wav	0.9918826388411498	door
+door_t_0005.wav	0.9697590902170824	door
+door_t_0006.wav	0.9376046590614988	door
+door_t_0007.wav	0.9133857135969708	door
+door_t_0008.wav	0.9895163449640613	door
+door_t_0009.wav	0.9505292232846453	door
+door_t_0010.wav	0.8803080275036177	door
+door_t_0011.wav	0.7866995039059692	door
+door_t_0012.wav	0.37658711171083376	background
+door_t_0013.wav	0.538352135968083	door
+door_t_0014.wav	0.6124068179995146	door
+door_t_0015.wav	0.9411229119628314	door
+door_t_0016.wav	0.9982305871091073	door
+door_t_0017.wav	0.9220032797892509	door
+door_t_0018.wav	0.9344378930033639	door
+door_t_0019.wav	0.5396324615447788	knocking door
+door_t_0020.wav	0.7473312291075072	door
+door_t_0021.wav	0.5692631069398879	knocking door
+door_t_0022.wav	0.9365784018387298	door
+keyboard_0002.wav	0.9923033739731378	keyboard
+keyboard_0005.wav	0.9994397308755203	keyboard
+keyboard_0008.wav	0.9999781578540986	keyboard
+keyboard_0012.wav	0.9998319014236178	keyboard
+keyboard_0017.wav	0.9983937158380146	keyboard
+keyboard_0021.wav	0.9977280591625767	keyboard
+keyboard_0026.wav	0.9823570794269022	keyboard
+keyboard_0030.wav	0.9956263944966562	keyboard
+keyboard_0032.wav	0.9935154483841099	keyboard
+keyboard_0035.wav	0.997181011211	keyboard
+keyboard_0039.wav	0.9816724396930461	keyboard
+keyboard_0042.wav	0.9841927969511275	keyboard
+keyboard_0044.wav	0.9312061015073229	keyboard
+keyboard_0046.wav	0.9979178221162335	keyboard
+keyboard_0049.wav	0.8467944294134582	keyboard
+keyboard_0052.wav	0.9879387812259735	keyboard
+keyboard_0055.wav	0.994460934005057	keyboard
+keyboard_0058.wav	0.9985474861736248	keyboard
+keyboard_0061.wav	0.9943634410348168	keyboard
+keyboard_0063.wav	0.6407915369505938	keyboard
+keyboard_0068.wav	0.9807263981751579	keyboard
+keyboard_0071.wav	0.9997632817798662	keyboard
+keyboard_0077.wav	0.9931063258119516	keyboard
+keyboard_0079.wav	0.973264272367351	keyboard
+keyboard_0083.wav	0.9988672579298261	keyboard
+keyboard_t_0001.wav	0.9998074643832672	keyboard
+keyboard_t_0002.wav	0.9994120500764041	keyboard
+keyboard_t_0003.wav	0.9778006889981491	keyboard
+keyboard_t_0004.wav	0.6813834389301605	knocking door
+keyboard_t_0005.wav	0.9953743831867499	keyboard
+keyboard_t_0006.wav	0.9985266422370519	keyboard
+keyboard_t_0007.wav	0.8677870306039783	keyboard
+keyboard_t_0008.wav	0.99937696796528	keyboard
+keyboard_t_0009.wav	0.988865941677048	keyboard
+keyboard_t_0010.wav	0.9817679777428429	keyboard
+keyboard_t_0011.wav	0.36718137078428065	keyboard
+keyboard_t_0012.wav	0.9970005807566784	keyboard
+keyboard_t_0013.wav	0.9911230853602626	keyboard
+keyboard_t_0014.wav	0.9926001273336962	keyboard
+keyboard_t_0015.wav	0.9992428326513465	keyboard
+keyboard_t_0016.wav	0.9882805337189907	keyboard
+keyboard_t_0017.wav	0.9979826303738215	keyboard
+keyboard_t_0018.wav	0.9959616027835515	keyboard
+keyboard_t_0019.wav	0.9892022608173378	keyboard
+keyboard_t_0020.wav	0.9588709152627997	keyboard
+keyboard_t_0021.wav	0.9944859984358437	keyboard
+keyboard_t_0022.wav	0.9962727165440809	keyboard
+knocking_door_0001.wav	0.9999963795673004	knocking door
+knocking_door_0006.wav	0.9999978644123227	knocking door
+knocking_door_0011.wav	0.9999881529455341	knocking door
+knocking_door_0014.wav	0.999999204450201	knocking door
+knocking_door_0018.wav	0.6474598392623887	knocking door
+knocking_door_0022.wav	0.9999330020622326	knocking door
+knocking_door_0026.wav	0.9143034195901087	knocking door
+knocking_door_0029.wav	0.988605660163876	door
+knocking_door_0031.wav	0.997745838107283	knocking door
+knocking_door_0035.wav	0.9999929530606649	knocking door
+knocking_door_0036.wav	0.8433975284914049	knocking door
+knocking_door_0040.wav	0.519940426771264	knocking door
+knocking_door_0043.wav	0.49927851509453397	door
+knocking_door_0045.wav	0.8823469834980538	door
+knocking_door_0050.wav	0.9784765783951166	knocking door
+knocking_door_0054.wav	0.9999069718732976	knocking door
+knocking_door_0057.wav	0.9951366651526758	knocking door
+knocking_door_0060.wav	0.9984209076859782	knocking door
+knocking_door_0066.wav	0.9999859468384668	knocking door
+knocking_door_0068.wav	0.9993945948722553	knocking door
+knocking_door_0072.wav	0.9998590835855792	knocking door
+knocking_door_0077.wav	0.9999676143846709	knocking door
+knocking_door_0081.wav	0.9148857162782615	knocking door
+knocking_door_0085.wav	0.6861669239995698	background
+knocking_door_0088.wav	0.6705195068568804	door
+knocking_door_0090.wav	0.5830816355573747	speech
+knocking_door_0091.wav	0.9411651924901555	knocking door
+knocking_door_t_0001.wav	0.5211579954301074	speech
+knocking_door_t_0002.wav	0.9957246010447065	knocking door
+knocking_door_t_0003.wav	0.9988066035832079	knocking door
+knocking_door_t_0004.wav	0.9999580412986395	knocking door
+knocking_door_t_0005.wav	0.8756040031541175	knocking door
+knocking_door_t_0006.wav	0.9999578351764249	knocking door
+knocking_door_t_0007.wav	0.5527372909093078	knocking door
+knocking_door_t_0008.wav	0.9982513301129675	knocking door
+knocking_door_t_0009.wav	0.999348413852379	knocking door
+knocking_door_t_0010.wav	0.9986801432560792	knocking door
+knocking_door_t_0011.wav	0.8013806511447337	knocking door
+knocking_door_t_0012.wav	0.9888580700280563	knocking door
+knocking_door_t_0013.wav	0.9992156292023068	knocking door
+knocking_door_t_0014.wav	0.9998154701628219	knocking door
+knocking_door_t_0015.wav	0.7444682340991073	door
+knocking_door_t_0016.wav	0.7478818627378377	door
+knocking_door_t_0017.wav	0.8395660007458483	door
+knocking_door_t_0018.wav	0.9904658071959807	knocking door
+knocking_door_t_0019.wav	0.99965870498694	knocking door
+knocking_door_t_0020.wav	0.9989828231953852	knocking door
+knocking_door_t_0021.wav	0.7881672035730103	knocking door
+knocking_door_t_0022.wav	0.9678474637590451	knocking door
+knocking_door_t_0023.wav	0.9991464427387114	knocking door
+knocking_door_t_0024.wav	0.796258184435264	knocking door
+knocking_door_t_0025.wav	0.3542511123306072	knocking door
+knocking_door_t_0026.wav	0.9958885154339036	knocking door
+knocking_door_t_0027.wav	0.9973817268703127	knocking door
+knocking_door_t_0028.wav	0.9565886441885858	knocking door
+knocking_door_t_0029.wav	0.99970302813534	knocking door
+knocking_door_t_0030.wav	0.9929704499556471	knocking door
+knocking_door_t_0031.wav	0.9779566859779907	knocking door
+knocking_door_t_0032.wav	0.9991167772453491	knocking door
+ring_0001.wav	0.918828327785002	ring
+ring_0002.wav	0.8672460899034153	ring
+ring_0003.wav	0.4758033657919951	background
+ring_0004.wav	0.9651078170366213	ring
+ring_0005.wav	0.8243379487579483	ring
+ring_0006.wav	0.9624850538704951	ring
+ring_0007.wav	0.8442974914818259	ring
+ring_0008.wav	0.8081702971854823	ring
+ring_0009.wav	0.9819179364783255	ring
+ring_0010.wav	0.9551689555809928	ring
+ring_0011.wav	0.8205432584806497	ring
+ring_0012.wav	0.9720379462309714	ring
+ring_0013.wav	0.8618009317906966	ring
+ring_0014.wav	0.6808807825570518	background
+ring_0015.wav	0.45867218566708823	ring
+ring_0016.wav	0.9671470960573997	ring
+ring_0017.wav	0.9956954648364634	ring
+ring_0018.wav	0.9704110142604552	ring
+ring_0019.wav	0.9959636973542078	ring
+ring_0020.wav	0.9974178799511862	ring
+ring_0021.wav	0.9869024066974147	ring
+ring_0022.wav	0.9347287254352391	ring
+ring_0023.wav	0.9882038592873931	ring
+ring_0024.wav	0.9955993009443888	ring
+ring_0025.wav	0.9907505151293724	ring
+ring_0026.wav	0.9275541493103893	ring
+ring_0027.wav	0.9555444684954586	ring
+ring_0028.wav	0.9811793358867931	ring
+ring_0029.wav	0.9836942353820798	ring
+ring_0030.wav	0.8972412744501186	ring
+ring_0031.wav	0.9368416862431873	ring
+ring_0032.wav	0.8870843830055973	ring
+ring_0033.wav	0.993054562843057	ring
+ring_0034.wav	0.9978779402054438	ring
+ring_0035.wav	0.9587357650614042	ring
+ring_0036.wav	0.9966147050489743	ring
+ring_0037.wav	0.9733731305903351	ring
+ring_0038.wav	0.9457433265048159	ring
+ring_0039.wav	0.9887927831130244	ring
+ring_0040.wav	0.9478005659955876	ring
+ring_0041.wav	0.7389264167681188	ring
+ring_0042.wav	0.44041611257748814	door
+ring_0043.wav	0.4207088490579104	speech
+ring_0044.wav	0.7879017694827549	ring
+ring_0045.wav	0.844882651886631	ring
+ring_0046.wav	0.8285607215595561	ring
+ring_0047.wav	0.9553460171667477	ring
+ring_0048.wav	0.8591000490898952	ring
+ring_0049.wav	0.5813452689438837	ring
+ring_0050.wav	0.9807322608638027	ring
+ring_0051.wav	0.9376083141260724	ring
+ring_0052.wav	0.9871552981622229	ring
+ring_0053.wav	0.9236780679755395	ring
+ring_0054.wav	0.8470374449135191	ring
+ring_0055.wav	0.9767174620903882	ring
+ring_0056.wav	0.5752605309474325	ring
+ring_0057.wav	0.9135030315860051	ring
+ring_0058.wav	0.8401219353511997	ring
+ring_t_0001.wav	0.3339660311273192	keyboard
+ring_t_0002.wav	0.43992824965571803	ring
+ring_t_0003.wav	0.9668138004348017	ring
+ring_t_0004.wav	0.8580003500696509	ring
+ring_t_0005.wav	0.996997182279085	ring
+ring_t_0006.wav	0.9955236866843291	ring
+ring_t_0007.wav	0.9266431031432398	ring
+ring_t_0008.wav	0.8086465349641367	ring
+ring_t_0009.wav	0.995906042575605	ring
+ring_t_0010.wav	0.6812191640369042	ring
+ring_t_0011.wav	0.5255486055801833	ring
+ring_t_0012.wav	0.9011920500632363	ring
+ring_t_0013.wav	0.9732138555844501	ring
+ring_t_0014.wav	0.8788703523080198	ring
+speech_0001.wav	0.4196355376250104	speech
+speech_0002.wav	0.995379060923469	speech
+speech_0003.wav	0.9936433956934914	speech
+speech_0004.wav	0.9818603117967917	speech
+speech_0005.wav	0.9951526848753149	speech
+speech_0006.wav	0.9993178780852423	speech
+speech_0007.wav	0.9954894234764791	speech
+speech_0008.wav	0.9964860306474657	speech
+speech_0009.wav	0.9951671181873816	speech
+speech_0010.wav	0.9942777186322709	speech
+speech_0011.wav	0.9783443336580042	speech
+speech_0012.wav	0.9999998005392655	speech
+speech_0013.wav	0.9744435835170623	speech
+speech_0014.wav	0.6607984106996203	speech
+speech_0015.wav	0.9873809355183483	speech
+speech_0016.wav	0.9720727394461046	speech
+speech_0017.wav	0.9978532487739682	speech
+speech_0018.wav	0.9635785989062003	speech
+speech_0019.wav	0.9887240746790109	speech
+speech_0020.wav	0.9807101357069462	speech
+speech_0021.wav	0.9504557401431272	speech
+speech_0022.wav	0.9157011228540457	speech
+speech_0023.wav	0.6176218936753564	speech
+speech_0024.wav	0.9926434456620394	speech
+speech_0025.wav	0.9898360631081712	speech
+speech_0026.wav	0.9271056385230378	speech
+speech_0027.wav	0.5371146440569282	speech
+speech_0028.wav	0.9749514083043745	speech
+speech_0029.wav	0.9973620470854969	speech
+speech_0030.wav	0.986499412550834	speech
+speech_0031.wav	0.9957903076641919	speech
+speech_0032.wav	0.9797122256837021	speech
+speech_0033.wav	0.5601481896995699	door
+speech_0034.wav	0.9954040513430976	speech
+speech_0035.wav	0.999863048490722	knocking door
+speech_0036.wav	0.9379146418045494	speech
+speech_0037.wav	0.9980049733801077	speech
+speech_0038.wav	0.9732208932744957	speech
+speech_0039.wav	0.9996872059899878	speech
+speech_0040.wav	0.9969818640672172	speech
+speech_0041.wav	0.9976207215415096	speech
+speech_0042.wav	0.9999992450433084	speech
+speech_0043.wav	0.9970392325859838	speech
+speech_0044.wav	0.9985313259886891	speech
+speech_0045.wav	0.9992306923738201	speech
+speech_0046.wav	0.9995555800283776	speech
+speech_0047.wav	0.9973911150681681	speech
+speech_0048.wav	0.9958389474044316	speech
+speech_0049.wav	0.9994871758305129	speech
+speech_0050.wav	0.9994663966166656	speech
+speech_0051.wav	0.997070328275129	speech
+speech_0052.wav	0.9964680089386455	speech
+speech_0053.wav	0.9992302934854332	speech
+speech_0054.wav	0.996933848414525	speech
+speech_0055.wav	0.9881427926456872	speech
+speech_0056.wav	0.9989840456855539	speech
+speech_0057.wav	0.898288027960385	speech
+speech_0058.wav	0.9947931170536756	speech
+speech_0059.wav	0.99999936369398	speech
+speech_0060.wav	0.9989159645295907	speech
+speech_0061.wav	0.9995943732625782	speech
+speech_0062.wav	0.9999997972615582	speech
+speech_0063.wav	0.9953246082498083	speech
+speech_0064.wav	0.9992316196266045	speech
+speech_0065.wav	0.9999999818909893	speech
+speech_0066.wav	0.9999997509975843	speech
+speech_0067.wav	0.9996686038972449	speech
+speech_0068.wav	0.9989592536319379	speech
+speech_0069.wav	0.9891073914767113	speech
+speech_0070.wav	0.9959468753090139	speech
+speech_0071.wav	0.958926994526598	speech
+speech_0072.wav	0.9742842809394474	speech
+speech_0073.wav	0.999998395253264	speech
+speech_0074.wav	0.996477349333223	speech
+speech_0075.wav	0.9992911014260031	speech
+speech_0076.wav	0.9778929537382138	speech
+speech_0077.wav	0.999998924239383	speech
+speech_0078.wav	0.9999997729009147	speech
+speech_0079.wav	0.9960632521247655	speech
+speech_0080.wav	0.9741980949812976	speech
+speech_0081.wav	0.9990604497320887	speech
+speech_0082.wav	0.9999975243937689	speech
+speech_0083.wav	0.9937753539394378	speech
+speech_0084.wav	0.987930410417159	speech
+speech_0085.wav	0.9957945091744547	speech
+speech_0086.wav	0.8119016924504882	speech
+speech_0087.wav	0.85883631410653	speech
+speech_0088.wav	0.9999999476526881	speech
+speech_0089.wav	0.7648845370166312	speech
+speech_0090.wav	0.9898605745237888	speech
+speech_0091.wav	0.9780480909804015	speech
+speech_0092.wav	0.9975015580691743	speech
+speech_0093.wav	0.992662164158611	speech
+speech_0094.wav	0.9904767755318276	speech
+speech_0095.wav	0.861628133546773	speech
+speech_0096.wav	0.9888497134653498	speech
+speech_0097.wav	0.9125777180966108	speech
+speech_0098.wav	0.9143558978087515	speech
+speech_0099.wav	0.7809575974386563	speech
+speech_0100.wav	0.686837835276177	speech
+speech_t_0001.wav	0.9674352245491878	speech
+speech_t_0002.wav	0.9642792791323007	speech
+speech_t_0003.wav	0.9808276463963859	speech
+speech_t_0004.wav	0.9977708861378011	speech
+speech_t_0005.wav	0.9934679728361862	speech
+speech_t_0006.wav	0.9999999114591093	speech
+speech_t_0007.wav	0.7320616736071098	speech
+speech_t_0008.wav	0.996605804953291	speech
+speech_t_0009.wav	0.9993218597216131	speech
+speech_t_0010.wav	0.9988858642612843	speech
+speech_t_0011.wav	0.9868846369066598	speech
+speech_t_0012.wav	0.9992640356797471	speech
+speech_t_0013.wav	0.9991265484804706	speech
+speech_t_0014.wav	0.9946778542124598	speech
+speech_t_0015.wav	0.997897039568567	speech
+speech_t_0016.wav	0.998658677249252	speech
+speech_t_0017.wav	0.9985477046276396	speech
+speech_t_0018.wav	0.3879402054593959	ring
+speech_t_0019.wav	0.9875280215985878	speech
+speech_t_0020.wav	0.9808739600445613	speech
+speech_t_0021.wav	0.9156020852034659	speech
+speech_t_0022.wav	0.5079900484431115	door
+speech_t_0023.wav	0.9999996593569684	speech
+speech_t_0024.wav	0.993086407265661	speech
+speech_t_0025.wav	0.9804773470252257	speech
+speech_t_0026.wav	0.8329981723431923	speech
+speech_t_0027.wav	0.993520541060425	speech
+speech_t_0028.wav	0.9944824031153442	speech
+speech_t_0029.wav	0.9996222434041885	speech
+speech_t_0030.wav	0.9947954188044231	speech
+speech_t_0031.wav	0.9954223516438087	speech
+speech_t_0032.wav	0.9929650887332248	speech
+speech_t_0033.wav	0.9410499401583139	speech
+speech_t_0034.wav	0.9900177554628958	speech
+speech_t_0035.wav	0.9961893095693625	speech
+speech_t_0036.wav	0.9878381512521583	speech
+speech_t_0037.wav	0.8347109076759843	speech
+speech_t_0038.wav	0.9510097901642425	speech
+speech_t_0039.wav	0.9884663365908859	speech
+speech_t_0040.wav	0.966027004088068	speech
+speech_t_0041.wav	0.9183209718854786	speech
+tool_0001.wav	0.9857125626884119	tool
+tool_0002.wav	0.9971417710569671	tool
+tool_0003.wav	0.8084668968422968	tool
+tool_0004.wav	0.9784370976841047	tool
+tool_0005.wav	0.6043964807604879	tool
+tool_0006.wav	0.9847105202019549	tool
+tool_0007.wav	0.7020246691277109	background
+tool_0008.wav	0.8702961644228945	tool
+tool_0009.wav	0.9968014034991382	tool
+tool_0010.wav	0.7731633615015459	tool
+tool_0011.wav	0.9999990044297888	tool
+tool_0012.wav	0.9173509496866631	tool
+tool_0013.wav	0.9900573177560116	tool
+tool_0014.wav	0.5575941512885804	bags
+unknown_0001.wav	0.6478034642523659	knocking door
+unknown_0002.wav	0.795472261728765	tool
+unknown_0003.wav	0.9966449253482421	tool
+unknown_0004.wav	0.7825301809417905	tool
+unknown_0005.wav	0.6308569419092558	ring
+unknown_0006.wav	0.9680612105794488	tool
+unknown_0007.wav	0.993003675775161	tool
+unknown_0008.wav	0.9403586165692381	tool
+unknown_0009.wav	0.5578995773721264	knocking door
+unknown_0010.wav	0.7980195805478428	tool
+unknown_0011.wav	0.7718562226655132	background
+unknown_0012.wav	0.21932856893301855	knocking door
+unknown_0013.wav	0.7923194981803526	door
+unknown_0014.wav	0.3579062564170864	knocking door
+unknown_0015.wav	0.9564643716656	tool
+unknown_0016.wav	0.8831485463422516	background
+unknown_0017.wav	0.9970032357141709	background
+unknown_0018.wav	0.9361198242861615	tool
+unknown_0019.wav	0.7105681839149922	background
+unknown_0020.wav	0.9754789974446512	background
+unknown_0021.wav	0.8774406147383234	background
+unknown_0022.wav	0.26907345662686855	ring
+unknown_0023.wav	0.5448260908085131	tool
+unknown_0024.wav	0.7789721892366634	knocking door
+unknown_0025.wav	0.92221373963344	knocking door
+unknown_0026.wav	0.8922155390981144	background
+unknown_0027.wav	0.8181634508289635	ring
+unknown_0028.wav	0.971937413928142	background
+unknown_0029.wav	0.7059343246854775	tool
+unknown_0030.wav	0.9413141434409527	background
+unknown_0031.wav	0.6380187590895933	tool
+unknown_0032.wav	0.8470190820390606	door
+unknown_0033.wav	0.97217726400234	background
+unknown_0034.wav	0.6663214818464008	knocking door
+unknown_0035.wav	0.9246671238037976	tool
+unknown_0036.wav	0.5616869287122493	tool
+unknown_0037.wav	0.9720873799878792	background
+unknown_0038.wav	0.8174703614752398	tool
+unknown_0039.wav	0.3980794999270449	knocking door
+unknown_0040.wav	0.4770398404005821	speech
+unknown_0041.wav	0.4312055183329268	speech
+unknown_0042.wav	0.9655424990447117	background
+unknown_0043.wav	0.5804034611504805	tool
+unknown_0044.wav	0.831208840405669	ring
+unknown_0045.wav	0.7679705505835714	tool
+unknown_0046.wav	0.48575077501497593	background
+unknown_0047.wav	0.5700715432585114	tool
+unknown_0048.wav	0.9045401302142589	tool
+unknown_0049.wav	0.9936062238435653	background
+unknown_0050.wav	0.38446046359872293	speech
+unknown_0051.wav	0.9911746307710378	tool
+unknown_0052.wav	0.9434483587694601	keyboard
+unknown_0053.wav	0.9397728831195084	tool
+unknown_0054.wav	0.9663667862726644	tool
+unknown_0055.wav	0.5060317495930962	speech
+unknown_0056.wav	0.2608270683525724	ring
+unknown_0057.wav	0.6941235073747712	tool
+unknown_0058.wav	0.5513950162779925	tool
+unknown_0059.wav	0.7764816198090091	tool
+unknown_0060.wav	0.5351760900931521	ring
+unknown_0061.wav	0.8922862777892737	background
+unknown_0062.wav	0.8250310319778067	tool
+unknown_0063.wav	0.9783499182015927	tool
+unknown_0064.wav	0.5110840078086314	knocking door
+unknown_0065.wav	0.39062677715218164	tool
+unknown_0066.wav	0.9839105886953468	tool
+unknown_0067.wav	0.9530752585734086	keyboard
+unknown_0068.wav	0.3809079680886584	ring
+unknown_0069.wav	0.5197475863973796	background
+unknown_0070.wav	0.5337405726446371	background
+unknown_0071.wav	0.861138503312565	speech
+unknown_0072.wav	0.46811272171593854	tool
+unknown_0073.wav	0.45930043512778895	background
+unknown_0074.wav	0.5776722237588557	tool
+unknown_0075.wav	0.4993304304531632	tool
+unknown_0076.wav	0.9908716594499325	tool
+unknown_0077.wav	0.4344822500661048	bags
+unknown_0078.wav	0.992599267910575	tool
+unknown_0079.wav	0.2932380958109419	background
+unknown_0080.wav	0.9949381816345997	ring
+unknown_0081.wav	0.990781436832086	tool
+unknown_0082.wav	0.5513656539561851	keyboard
+unknown_0083.wav	0.6195812651703495	keyboard
+unknown_0084.wav	0.8802773224283479	background
+unknown_0085.wav	0.6953869839233827	tool
+unknown_0086.wav	0.7219151673296572	background
+unknown_0087.wav	0.9023886085180605	door
+unknown_0088.wav	0.7021757550737866	background
+unknown_0089.wav	0.7302622627020133	keyboard
+unknown_0090.wav	0.5425496207728283	knocking door
+unknown_0091.wav	0.9337625049978674	tool
+unknown_0092.wav	0.3068254009700231	background
+unknown_0093.wav	0.424056000316101	keyboard
+unknown_0094.wav	0.9715432774372041	keyboard
+unknown_0095.wav	0.9521686933947945	background
+unknown_0096.wav	0.9661724895086019	tool
+unknown_0097.wav	0.9893581137806435	door
+unknown_0098.wav	0.9243377023462178	speech
+unknown_0099.wav	0.6673485796042026	background
+unknown_0100.wav	0.9778249546766553	tool
+unknown_0101.wav	0.5157664796751454	background
+unknown_0102.wav	0.8494457551670508	tool
+unknown_0103.wav	0.6450261133771971	tool
+unknown_0104.wav	0.973698141543416	ring
+unknown_0105.wav	0.8558589047365616	knocking door
+unknown_0106.wav	0.9205870719696331	speech
+unknown_0107.wav	0.845881872319063	background
+unknown_0108.wav	0.7143486267143434	door
+unknown_0109.wav	0.8287517407766746	background
+unknown_0110.wav	0.6061690088006795	bags
+unknown_0111.wav	0.9200445084964611	tool
+unknown_0112.wav	0.5908269767756852	speech
+unknown_0113.wav	0.4787328487028009	speech
+unknown_0114.wav	0.3155699895075612	ring
+unknown_0115.wav	0.8422269595931391	tool
+unknown_0116.wav	0.45894883141440085	background
+unknown_0117.wav	0.9700330567924312	tool
+unknown_0118.wav	0.8252051798419701	knocking door
+unknown_0119.wav	0.7048294532722926	knocking door
+unknown_0120.wav	0.9992779586346024	tool
+unknown_0121.wav	0.598777043215471	ring
+unknown_0122.wav	0.8144898813630121	tool
+unknown_0123.wav	0.5068489081641457	door
+unknown_0124.wav	0.29117647673855257	door
+unknown_0125.wav	0.8079525424893972	door
+unknown_0126.wav	0.8803794057826253	ring
+unknown_0127.wav	0.28775997057795843	door
+unknown_0128.wav	0.9942000227396542	door
+unknown_0129.wav	0.47658688266478066	door
+unknown_0130.wav	0.33358149608014953	door
+unknown_0131.wav	0.37358783516849864	ring
+unknown_0132.wav	0.9933726360167702	door
+unknown_0133.wav	0.5281653784082347	speech
+unknown_0134.wav	0.9445917920182337	tool
+unknown_0135.wav	0.9633186639967258	ring
+unknown_0136.wav	0.4567627593610341	tool
+unknown_0137.wav	0.8767348819988813	door
