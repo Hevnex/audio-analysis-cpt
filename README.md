@@ -1,4 +1,4 @@
-# audio-analysis-cpt
+# audio-analysis-cst
 
 Для работы необходимо:
 - python 2.7
@@ -10,8 +10,6 @@
 Для запуска теста требуется:
 1) git clone https://github.com/Hevnex/audio-analysis-cpt.git
 2) Создать папку sampleData с тестовыми файлами.
-3) python2 testClassifierModel.py sampleData
+3) testClassifierModel.py sampleData
 
-В результате отработки скрипта создастся файл result.txt с результатами распознавания тестовых файлов. 
-
-"-" означает, что файл не был отнесен ни к одной из категорий.
+В результате отработки скрипта создастся файл result.txt с результатами распознавания тестовых файлов.
